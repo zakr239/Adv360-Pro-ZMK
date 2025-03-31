@@ -1,4 +1,4 @@
-# Kinesis Advantage 360 Pro ZMK Config
+ Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
 
@@ -12,7 +12,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 
 ### Setup
 
-1. Fork this repo.
+Test
 2. Enable GitHub Actions on your fork.
 
 ### Build firmware
